@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.KeuanganKu" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#009540</item>
+    </style>
+</resources>
